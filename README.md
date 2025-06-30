@@ -63,8 +63,8 @@
   <img src="https://komarev.com/ghpvc/?username=Fulgresol&label=Vistas%20del%20Perfil&color=0e75b6&style=flat" alt="Contador de Vistas del Perfil de Fulgresol"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
-
 ---
 
 <p align="center">Thanks for visiting my GitHub page!</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
