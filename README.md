@@ -55,16 +55,6 @@
 
 ---
 
-<p align="center">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fulgresol&layout=compact&langs_count=7&theme=dracula" alt="Lenguajes más usados por Fulgresol"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Fulgresol&label=Vistas%20del%20Perfil&color=0e75b6&style=flat" alt="Contador de Vistas del Perfil de Fulgresol"/>
-</p>
-
----
-
 <p align="center">Thanks for visiting my GitHub page!</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
